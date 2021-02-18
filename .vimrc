@@ -2,7 +2,7 @@
 
 set nocompatible
 
-source $HOME/.vim/bundles.vim "Plugins loaded with Vundle
+source $HOME/.vim/bundles.vim "Plugins loaded with vim plug
 
 set backspace=2 "Fix terminal backspace issue
 
